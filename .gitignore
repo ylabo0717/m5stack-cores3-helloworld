@@ -37,3 +37,7 @@
 .clang_complete
 .gcc-flags.json
 .pio
+
+# VSCode
+
+.vscode
